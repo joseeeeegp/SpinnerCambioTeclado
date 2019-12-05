@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Teclado Normal</item>
+        <item>Teclado con @</item>
+        <item>Teclado telefono</item>
+        <item>Teclado numérico</item>
+    </string-array>
+</resources>
